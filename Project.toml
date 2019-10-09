@@ -1,0 +1,10 @@
+name = "ZeroMQ_jll"
+uuid = "8f1865be-045e-5c20-9c9f-bfbfb0764568"
+version = "4.3.1+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.3"

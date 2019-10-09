@@ -1,0 +1,113 @@
+[[ZeroMQ]]
+arch = "x86_64"
+git-tree-sha1 = "c321a9ffaee2428072bcc77757d47bcee577df00"
+os = "macos"
+
+    [[ZeroMQ.download]]
+    sha256 = "3ce85d89aa9a21402a47081eefb66688214d3fdd033becebf18a3396fc2b165a"
+    url = "https://github.com/JuliaBinaryWrappers/ZeroMQ_jll.jl/releases/download/ZeroMQ-v4.3.1+0/ZeroMQ.v4.3.1.x86_64-apple-darwin14.tar.gz"
+[[ZeroMQ]]
+arch = "i686"
+git-tree-sha1 = "e0ee2db35f94619ac667a61a48fb899a3e527524"
+libc = "glibc"
+os = "linux"
+
+    [[ZeroMQ.download]]
+    sha256 = "d11cc71609965daee8d6577e50d24ad974d72d9b37f212b6956c49aee45d87cd"
+    url = "https://github.com/JuliaBinaryWrappers/ZeroMQ_jll.jl/releases/download/ZeroMQ-v4.3.1+0/ZeroMQ.v4.3.1.i686-linux-gnu.tar.gz"
+[[ZeroMQ]]
+arch = "x86_64"
+git-tree-sha1 = "dc3a9e7db07aaba6c3df940a92041cf4c86e9e94"
+os = "freebsd"
+
+    [[ZeroMQ.download]]
+    sha256 = "6cb948d774f4686f23daf43314269b88d2a1c6ee47ed58ae8d70acd457682391"
+    url = "https://github.com/JuliaBinaryWrappers/ZeroMQ_jll.jl/releases/download/ZeroMQ-v4.3.1+0/ZeroMQ.v4.3.1.x86_64-unknown-freebsd11.1.tar.gz"
+[[ZeroMQ]]
+arch = "powerpc64le"
+git-tree-sha1 = "a88fcc3c7ca373daccc819f40dda830ca740f77e"
+libc = "glibc"
+os = "linux"
+
+    [[ZeroMQ.download]]
+    sha256 = "ca4bad590bc0e4dd5c44469a7a543d0392055dcd52819a7098970f96241ce00d"
+    url = "https://github.com/JuliaBinaryWrappers/ZeroMQ_jll.jl/releases/download/ZeroMQ-v4.3.1+0/ZeroMQ.v4.3.1.powerpc64le-linux-gnu.tar.gz"
+[[ZeroMQ]]
+arch = "x86_64"
+git-tree-sha1 = "5c7343896df9e599ef9e56938cde207d502e04a5"
+libc = "musl"
+os = "linux"
+
+    [[ZeroMQ.download]]
+    sha256 = "a3b91e64fa8d219566012fc134229946f823493bbf882398d740ef78d126906f"
+    url = "https://github.com/JuliaBinaryWrappers/ZeroMQ_jll.jl/releases/download/ZeroMQ-v4.3.1+0/ZeroMQ.v4.3.1.x86_64-linux-musl.tar.gz"
+[[ZeroMQ]]
+arch = "x86_64"
+git-tree-sha1 = "8b67c92bc6eb60d96d3488bf4b48bd3a38f70c53"
+libc = "glibc"
+os = "linux"
+
+    [[ZeroMQ.download]]
+    sha256 = "6707fee165e3e5fd0244068c61c3e75461379ce62a469ec3c79917f7859c334a"
+    url = "https://github.com/JuliaBinaryWrappers/ZeroMQ_jll.jl/releases/download/ZeroMQ-v4.3.1+0/ZeroMQ.v4.3.1.x86_64-linux-gnu.tar.gz"
+[[ZeroMQ]]
+arch = "x86_64"
+git-tree-sha1 = "3ef454a9fdf7d5583facdcd0e9ce1826ff75ebda"
+os = "windows"
+
+    [[ZeroMQ.download]]
+    sha256 = "db84fe9e0b467af58311f63a11807f3aec02d85c7857abdeae90b76143d170f0"
+    url = "https://github.com/JuliaBinaryWrappers/ZeroMQ_jll.jl/releases/download/ZeroMQ-v4.3.1+0/ZeroMQ.v4.3.1.x86_64-w64-mingw32.tar.gz"
+[[ZeroMQ]]
+arch = "aarch64"
+git-tree-sha1 = "017db0c24f468732c9a3a23ed7f5e80f79207bb5"
+libc = "musl"
+os = "linux"
+
+    [[ZeroMQ.download]]
+    sha256 = "7350f8d5c51cec5daa87afd05e57407b6acf2950948abc6cd41e49d679e26b25"
+    url = "https://github.com/JuliaBinaryWrappers/ZeroMQ_jll.jl/releases/download/ZeroMQ-v4.3.1+0/ZeroMQ.v4.3.1.aarch64-linux-musl.tar.gz"
+[[ZeroMQ]]
+arch = "armv7l"
+git-tree-sha1 = "dfa1c0fa4afece7ce9d42929399eaf033e4ef8a8"
+libc = "glibc"
+os = "linux"
+
+    [[ZeroMQ.download]]
+    sha256 = "567f7fb5772b998326a1cf2628910f18f46164e324fd0008f0af8a80bde16dc5"
+    url = "https://github.com/JuliaBinaryWrappers/ZeroMQ_jll.jl/releases/download/ZeroMQ-v4.3.1+0/ZeroMQ.v4.3.1.arm-linux-gnueabihf.tar.gz"
+[[ZeroMQ]]
+arch = "i686"
+git-tree-sha1 = "5869aa852226b05c9fd1ba90a24b4cd7d538471a"
+libc = "musl"
+os = "linux"
+
+    [[ZeroMQ.download]]
+    sha256 = "000e498664640b9e6b5b5d2a33719e27d0595818a27650cac15f0ec7afcae663"
+    url = "https://github.com/JuliaBinaryWrappers/ZeroMQ_jll.jl/releases/download/ZeroMQ-v4.3.1+0/ZeroMQ.v4.3.1.i686-linux-musl.tar.gz"
+[[ZeroMQ]]
+arch = "armv7l"
+git-tree-sha1 = "8cd329e1b6de4ca0d8d04a3796845325a679b036"
+libc = "musl"
+os = "linux"
+
+    [[ZeroMQ.download]]
+    sha256 = "1b8cbec9e44737687f764cda2b5c07dc7b916aab8593b3390b0c0d4f59e1f15f"
+    url = "https://github.com/JuliaBinaryWrappers/ZeroMQ_jll.jl/releases/download/ZeroMQ-v4.3.1+0/ZeroMQ.v4.3.1.arm-linux-musleabihf.tar.gz"
+[[ZeroMQ]]
+arch = "aarch64"
+git-tree-sha1 = "065575b7fe4ae453ac685cf0ee4b11469c8d78ca"
+libc = "glibc"
+os = "linux"
+
+    [[ZeroMQ.download]]
+    sha256 = "d91b35b881b5aa67e090aef1df63e3b77abda78e30b4a5f034294f145bb58abc"
+    url = "https://github.com/JuliaBinaryWrappers/ZeroMQ_jll.jl/releases/download/ZeroMQ-v4.3.1+0/ZeroMQ.v4.3.1.aarch64-linux-gnu.tar.gz"
+[[ZeroMQ]]
+arch = "i686"
+git-tree-sha1 = "7eeede2b302481b768b7fa4fce9cab92998d619f"
+os = "windows"
+
+    [[ZeroMQ.download]]
+    sha256 = "073839a099b372042e5b523a4e917ad7f4f1c56302bd8fb385bc670dba289fbc"
+    url = "https://github.com/JuliaBinaryWrappers/ZeroMQ_jll.jl/releases/download/ZeroMQ-v4.3.1+0/ZeroMQ.v4.3.1.i686-w64-mingw32.tar.gz"
