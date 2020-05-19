@@ -5,6 +5,7 @@ export libzmq
 PATH = ""
 LIBPATH = ""
 LIBPATH_env = "DYLD_FALLBACK_LIBRARY_PATH"
+LIBPATH_default = "~/lib:/usr/local/lib:/lib:/usr/lib"
 
 # Relative path to `libzmq`
 const libzmq_splitpath = ["lib", "libzmq.5.dylib"]

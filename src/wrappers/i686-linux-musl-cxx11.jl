@@ -5,6 +5,7 @@ export libzmq
 PATH = ""
 LIBPATH = ""
 LIBPATH_env = "LD_LIBRARY_PATH"
+LIBPATH_default = ""
 
 # Relative path to `libzmq`
 const libzmq_splitpath = ["lib", "libzmq.so"]
